@@ -10,7 +10,7 @@ import org.springframework.web.filter.OncePerRequestFilter;
 
 import java.io.IOException;
 
-@Component
+//@Component
 public class TokenBucketInterceptor extends OncePerRequestFilter {
 
     private final TokenBucket tokenBucket = new TokenBucket(5,3);

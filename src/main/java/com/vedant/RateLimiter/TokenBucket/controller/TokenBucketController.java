@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/tokenBucket")
-public class HelloWorld {
+public class TokenBucketController {
 
     @GetMapping("/hello")
     public String hello() {
