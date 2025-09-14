@@ -28,3 +28,4 @@ A rate limiter is a mechanism used to control the rate of requests or actions in
 
 
 ### Source: https://bytebytego.com/courses/system-design-interview/design-a-rate-limiter
+### Design: https://www.youtube.com/watch?v=SgWb6tWx3S8
