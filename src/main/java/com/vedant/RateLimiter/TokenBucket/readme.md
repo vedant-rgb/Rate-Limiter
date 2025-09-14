@@ -2,9 +2,7 @@
 ### Types:
 - Scheduled Refill
 - On-Demand Refill
-- Leaky Bucket
-- Fixed Window
-- Sliding Window
+
 
 ### Components:
 - Capacity: Maximum number of tokens in the bucket.
